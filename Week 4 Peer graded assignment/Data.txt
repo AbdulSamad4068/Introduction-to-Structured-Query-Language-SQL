@@ -1,0 +1,17 @@
+You will normalize the following data (each user gets different data), and insert the following data items into your database, creating and linking all the foreign keys properly. Encode instructor with a role of 1 and a learner with a role of 0.
+
+Natividad, si106, Instructor
+Aaliyah, si106, Learner
+Dillan, si106, Learner
+Dora, si106, Learner
+Hema, si106, Learner
+Margaret, si110, Instructor
+Adana, si110, Learner
+Aneshka, si110, Learner
+Malayka, si110, Learner
+Mei, si110, Learner
+Tylor, si206, Instructor
+Eilidh, si206, Learner
+Ellis, si206, Learner
+Iria, si206, Learner
+Yva, si206, Learner
